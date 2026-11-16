@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">브레인</string>
+    <string name="widget_desc">오늘 수업과 할 일</string>
+    <string name="widget_empty">앱을 열어 설정해 주세요</string>
+</resources>
